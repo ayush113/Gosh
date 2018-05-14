@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345792839678",
+    "firebase_url": "https://gosh-d9b3d.firebaseio.com",
+    "project_id": "gosh-d9b3d",
+    "storage_bucket": "gosh-d9b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345792839678:android:d2c1bcf9be7fb68a",
+        "android_client_info": {
+          "package_name": "com.trials.chat.gosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345792839678-476vmju71bfi50565279c7v9qq94r5n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trials.chat.gosh",
+            "certificate_hash": "5f953df0659084ab267dc931bcc1311ef1183464"
+          }
+        },
+        {
+          "client_id": "345792839678-j1gqugsmfh7j3va3f9fcfqkegsbi2tip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH6IxVSUtLUGXZcMgEeJIbg0b4PWKmIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345792839678-j1gqugsmfh7j3va3f9fcfqkegsbi2tip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
